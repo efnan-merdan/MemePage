@@ -1,0 +1,18 @@
+{
+    "memes" : [
+        {
+            "MemeID" : "0",
+            "Title" : "Chickens",
+            "Description" : "Stating the obvious",
+            "Image" : "https://i.pinimg.com/736x/a9/10/23/a9102340f42e986c7273c3597158ed9e.jpg",
+            "Year" : "2012"
+        },
+        {
+            "MemeID" : "1",
+            "Title" : "House Burning",
+            "Description" : "Striving on despite the Hardships",
+            "Image" : "https://static01.nyt.com/images/2021/04/30/multimedia/30xp-meme/29xp-meme-mobileMasterAt3x-v3.jpg",
+            "Year" : "2009"
+        }
+    ]
+}
