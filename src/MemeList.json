@@ -1,18 +1,127 @@
 {
-    "memes" : [
-        {
-            "MemeID" : "0",
-            "Title" : "Chickens",
-            "Description" : "Stating the obvious",
-            "Image" : "https://i.pinimg.com/736x/a9/10/23/a9102340f42e986c7273c3597158ed9e.jpg",
-            "Year" : "2012"
-        },
-        {
-            "MemeID" : "1",
-            "Title" : "House Burning",
-            "Description" : "Striving on despite the Hardships",
-            "Image" : "https://static01.nyt.com/images/2021/04/30/multimedia/30xp-meme/29xp-meme-mobileMasterAt3x-v3.jpg",
-            "Year" : "2009"
-        }
-    ]
+  "memes": [
+    {
+      "MemeID": "0",
+      "Title": "Sad Keanu",
+      "Image": "https://cdn.pocket-lint.com/r/s/660x/assets/images/140427-apps-news-the-best-stupidest-and-most-famous-internet-memes-around-image14-9nhaq6helv-jpg.webp?v1",
+      "Year": "2010",
+      "About": "Keanuuu"
+    },
+    {
+      "MemeID": "1",
+      "Title": "That escelated quickly",
+      "Image": "https://cdn.vox-cdn.com/thumbor/1tCFt6KhuxBQOHEdBICYgBx0RgA=/0x0:1272x671/1400x1400/filters:focal(636x335:637x336)/cdn.vox-cdn.com/uploads/chorus_asset/file/15773740/Screen_Shot_2016-04-20_at_4.22.55_PM.0.0.1461187419.png",
+      "Year": "2009"
+    },
+    {
+      "MemeID": "2",
+      "Title": "Change my mind",
+      "Image": "https://cdn.pocket-lint.com/r/s/660x/assets/images/140427-apps-news-the-best-stupidest-and-most-famous-internet-memes-around-image5-q61igaskfh-jpg.webp?v1",
+      "Year": "2018"
+    },
+    {
+      "MemeID": "3",
+      "Title": "Success Kid",
+      "Image": "https://cdn.pocket-lint.com/r/s/660x/assets/images/140427-apps-news-the-best-stupidest-and-most-famous-internet-memes-around-image8-6bluhsfxts-jpg.webp?v1",
+      "Year": "2008"
+    },
+    {
+      "MemeID": "4",
+      "Title": "Ermahgerd girl",
+      "Image": "https://cdn.pocket-lint.com/r/s/660x/assets/images/140427-apps-news-the-best-stupidest-and-most-famous-internet-memes-around-image9-qiydtvm8hk-jpg.webp?v1",
+      "Year": "2018"
+    },
+    {
+      "MemeID": "5",
+      "Title": "Disaster girl",
+      "Image": "https://cdn.pocket-lint.com/r/s/660x/assets/images/140427-apps-news-the-best-stupidest-and-most-famous-internet-memes-around-image23-dqx3y9qmye-jpg.webp?v1",
+      "ImageNow": "https://i2-prod.mirror.co.uk/incoming/article24015387.ece/ALTERNATES/s615b/1_Internet-Live-By-BuzzFeed.jpg",
+      "Year": "2004",
+      "About": "The name Zoë Roth might not ring any bells. But chances are you’ve seen her photo. One Saturday morning in 2005, when Ms. Roth was 4 years old, her family went to look at a house on fire in their neighborhood in Mebane, N.C. Firefighters had intentionally set the blaze as a controlled fire, so it was a relaxed affair: Neighbors gathered and firefighters allowed children to take turns holding the hose. Ms. Roth remembers watching the flames engulf the house when her father, an amateur photographer, asked her to smile. With her hair askew and a knowing look in her eyes, Ms. Roth flashed a devilish smirk as the fire roared behind her. “Disaster Girl” was born."
+    },
+    {
+      "MemeID": "6",
+      "Title": "Distracted boyfriend",
+      "Image": "https://cdn.pocket-lint.com/r/s/660x/assets/images/140427-apps-news-the-best-stupidest-and-most-famous-internet-memes-around-image3-nhpserml38-jpg.webp?v1",
+      "Year": "2015"
+    },
+    {
+      "MemeID": "7",
+      "Title": "Facepalm",
+      "Image": "https://cdn.pocket-lint.com/r/s/660x/assets/images/140427-apps-news-the-best-stupidest-and-most-famous-internet-memes-around-image41-vo6jxg9fjl-jpg.webp?v1",
+      "Year": "2007"
+    },
+    {
+      "MemeID": "8",
+      "Title": "Joseph Ducreux",
+      "Image": "https://arthistoryproject.com/site/assets/files/15423/joseph-ducreux-obelisk-art-history.jpg",
+      "Year": "18th century"
+    },
+    {
+      "MemeID": "9",
+      "Title": "Good guy Greg",
+      "Image": "https://i.kym-cdn.com/entries/icons/mobile/000/005/681/GoodGuyGreg.jpg",
+      "Year": "2011"
+    },
+    {
+      "MemeID": "10",
+      "Title": "Scumbag Steve",
+      "Image": "https://i.kym-cdn.com/photos/images/newsfeed/000/093/953/c5b.jpg",
+      "Year": "2006"
+    },
+    {
+      "MemeID": "11",
+      "Title": "First world problems",
+      "Image": "https://imgflip.com/s/meme/First-World-Problems.jpg",
+      "Year": "'90s'"
+    },
+    {
+      "MemeID": "12",
+      "Title": "Bad luck Brian",
+      "Image": "https://upload.wikimedia.org/wikipedia/en/2/2b/Bad_Luck_Brian.jpg",
+      "Year": "'2012"
+    },
+    {
+      "MemeID": "13",
+      "Title": "Drunk baby",
+      "Image": "https://indianmemetemplates.com/wp-content/uploads/drunk_baby.jpg",
+      "Year": "'2012"
+    },
+    {
+      "MemeID": "14",
+      "Title": "Sceptical boy",
+      "Image": "https://imgflip.com/s/meme/Third-World-Skeptical-Kid.jpg",
+      "Year": "'2012"
+    },
+    {
+      "MemeID": "15",
+      "Title": "Overly attached girlfriend",
+      "Image": "https://i.ytimg.com/vi/24CQnCMhuLU/hqdefault.jpg",
+      "Year": "'2012"
+    },
+    {
+      "MemeID": "16",
+      "Title": "Think about it",
+      "Image": "https://i.imgflip.com/1odbov.jpg",
+      "Year": "'2016"
+    },
+    {
+      "MemeID": "17",
+      "Title": "White guy blinking",
+      "Image": "https://i.guim.co.uk/img/media/74e5a132a35ede8e1c2b8d3af3313518e2b84e70/0_0_1800_1080/master/1800.jpg?width=1200&quality=85&auto=format&fit=max&s=3849ab82cdbffee4b5cc9cf14a665fca",
+      "Year": "'2013"
+    },
+    {
+      "MemeID": "18",
+      "Title": "Side-eyeing Chloe",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8Cccev5jwQESB_ek7O9rAUugdUYq_nS2WP4SRGuegBIJJhGe0B9GpSLS0h6jnmA-HoM&usqp=CAU",
+      "Year": "'2013"
+    },
+    {
+      "MemeID": "19",
+      "Title": "Terio at Popeyes",
+      "Image": "https://www.memesmonkey.com/images/memesmonkey/9f/9f452cdf7faaf8cb00c09b327f2c3c4e.jpeg",
+      "Year": "'2013"
+    }
+  ]
 }
