@@ -11,17 +11,17 @@ const MemeProfile = () => {
   return (
     <div>
       <div className="app">
-        <h1>{memeProfile.Title}</h1>
+        <h2>{memeProfile.Title}</h2>
         <div className="box_1">
-          <img src={memeProfile.Image}/>
-          <div className="box_2">
-            <h2>{memeProfile.Year}</h2>
-            <h3>{memeProfile.About}</h3>
-          </div>
-          
+          <img className="image_1" src={memeProfile.Image}/>
+          <img className="arrow" src="https://www.seekpng.com/png/detail/26-263022_fileblack-right-arrow-right-arrows.png"/>
+          <img className="image_1" src={memeProfile.ImageNow}/>
         </div>
+        <div className="box_2">
+            <h2>{memeProfile.Year}</h2>
+            <h4>{memeProfile.About}</h4>
+          </div>
         <div className="box_1">
-        <img src={memeProfile.ImageNow}/>
         </div>
       </div>
     </div>
